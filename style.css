@@ -24,6 +24,14 @@ ul {
 }
 
 h2 {
-    border-bottom: solid;
-    border-color: black;
+    border-bottom: 2px;
+    border-color: navy;
+    
+}
+
+.image {
+    margin: auto auto auto auto;
+
+
+
 }
