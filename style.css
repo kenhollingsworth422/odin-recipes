@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-size: 42px;
+    font-family: "Arial","Verdana", "Georgia";
+    background-color: navy;
+    border: solid;
+    border-color: goldenrod;
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+ 
+
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+ul {
+    border: solid;
+    border-color: navy;
+    padding: 24px;
+    background-color: white;
+}
